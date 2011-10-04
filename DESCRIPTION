@@ -1,0 +1,17 @@
+<language da>
+Intervalometer and remote trigger for Canon DSLRs
+
+</language da>
+<language en>
+Intervalometer and remote trigger for Canon DSLRs
+
+todo:
+
+1. change power supply to using NCP1400
+2. run IR LED directly on battery, SPICE simulate this part of the circuit, use MOSFET
+3. expose TX/RX
+4. try prototype without R/W - expose it for something else - optionally
+
+
+
+</language en>
